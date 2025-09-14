@@ -49,7 +49,7 @@ An engaging educational C program designed to help children learn fundamental co
 ## 📥 Installation
 
 1. **Clone the repository:**
-git clone https://github.com/yourusername/interactive-learning-software.git
+git clone https://github.com/vishalb-dev/learning-software-for-kids.git <br>
 cd interactive-learning-software
 
 2. **Set up Turbo C++ environment:**
@@ -147,40 +147,14 @@ Contributions are welcome! Here's how you can help:
 6. **Push to the branch**: `git push origin feature/new-feature`
 7. **Open a Pull Request**
 
-### Areas for Improvement
-- [ ] Port to modern C++ with modern graphics libraries
-- [ ] Add more educational modules (shapes, colors, etc.)
-- [ ] Implement progress tracking
-- [ ] Add difficulty levels
-- [ ] Create configuration options
-- [ ] Add more languages support
 
 ## 👥 Credits
 
-- **Developer**: [Your Name]
-- **Guided by**: MR. ASHOK BHARDWAJ
-- **Educational Consultant**: [If applicable]
+- **Developer**: Vishal Bansal
+- **Guided by**: MR. Ashok Bhardwaj
 
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🐛 Known Issues
-
-- Requires DOS/16-bit environment to run
-- Graphics path must be correctly configured
-- Sound functionality depends on system sound card
-- Limited to Turbo C++ compiler compatibility
-
-## 📞 Support
-
-If you encounter any issues or have questions:
-- Open an issue on GitHub
-- Contact: [your-email@example.com]
-
----
-
-⭐ **Star this repository if you find it helpful!**
-
-*Made with ❤️ for young learners everywhere*
 
