@@ -22,13 +22,10 @@ An engaging educational C program designed to help children learn fundamental co
 - Interactive alphabet recognition (A-Z)
 - Visual representations for each letter
 - Associated objects and images for better memory
-- Audio pronunciation support
 
 ### 🔢 **Number Learning & Counting**
 - Numbers 1-100 with visual counting
 - Multiple representation styles (dots, shapes, objects)
-- Progressive difficulty levels
-- Number-to-word conversion
 
 ### 🧮 **Mathematical Operations**
 - **Addition**: Visual step-by-step addition with counting aids
