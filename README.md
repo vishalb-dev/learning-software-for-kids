@@ -49,12 +49,14 @@ An engaging educational C program designed to help children learn fundamental co
 ## 📥 Installation
 
 1. **Clone the repository:**
+git clone https://github.com/yourusername/interactive-learning-software.git
+cd interactive-learning-software
 
 2. **Set up Turbo C++ environment:**
 - Install Turbo C++ IDE
 - Ensure BGI graphics library is in the correct path (`\TURBOC3\bgi`)
 
-3. **Compile the program:**
+3. **Compile the program**
 
 ## 🚀 How to Run
 
