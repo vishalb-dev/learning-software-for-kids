@@ -66,6 +66,7 @@ cd interactive-learning-software
 - Or use `Alt+F9` to compile, then `Ctrl+F9` to run
 
 2. **From Command Line:**
+learning_software.exe
 
 3. **Using DOSBox (for modern systems):**
 - Install DOSBox
