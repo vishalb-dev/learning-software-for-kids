@@ -3,11 +3,6 @@
 
 An engaging educational C program designed to help children learn fundamental concepts through interactive graphics, animations, and sound. This software combines learning with fun through colorful visual elements and audio feedback.
 
-![Language](https://img.shields.io/badge/Language-C-blue.svg)
-![Platform](https://img.shields.io/badge/Platform-DOS%2FWindows-green.svg)
-![Graphics](https://img.shields.io/badge/Graphics-BGI-orange.svg)
-![License](https://img.shields.io/badge/License-MIT-yellow.svg)
-
 ## 📋 Table of Contents
 - [Features](#features)
 - [Prerequisites](#prerequisites)
