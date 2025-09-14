@@ -76,6 +76,7 @@ cd interactive-learning-software
 ## 📖 Program Structure
 
 Main Menu Options:
+<br>
 ├── 1. Learn Alphabets → Interactive A-Z learning
 ├── 2. Learn Counting → Numbers 1-100 with visuals
 ├── 3. Addition → Step-by-step addition problems
