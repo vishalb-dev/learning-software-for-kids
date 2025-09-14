@@ -77,12 +77,12 @@ cd interactive-learning-software
 
 Main Menu Options:
 <br>
-├── 1. Learn Alphabets → Interactive A-Z learning
-├── 2. Learn Counting → Numbers 1-100 with visuals
-├── 3. Addition → Step-by-step addition problems
-├── 4. Subtraction → Interactive subtraction with borrowing
-├── 5. Multiplication → Visual multiplication methods
-├── 6. Multiplication Tables → Complete tables for any number
+├── 1. Learn Alphabets → Interactive A-Z learning <br>
+├── 2. Learn Counting → Numbers 1-100 with visuals <br>
+├── 3. Addition → Step-by-step addition problems <br>
+├── 4. Subtraction → Interactive subtraction with borrowing <br>
+├── 5. Multiplication → Visual multiplication methods <br>
+├── 6. Multiplication Tables → Complete tables for any number <br>
 └── 7. Exit → Program termination
 
 
